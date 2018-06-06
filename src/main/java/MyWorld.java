@@ -3,7 +3,7 @@ class MyWorld{
 	public static void main(String arg[]) {
 		String message = welcomeMessage();
 		System.out.println("\n\n"+message);
-		System.out.println("success----------- issue reporting");
+		System.out.println("success #1 updates issue reporting");
 
 	}
 	
